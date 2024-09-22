@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansani Kaumadi</h1>
-<h3 align="center">A passionate bio medical engineering undergraduate who is enthusiastic about signal processing</h3>
+<h3 align="center">A passionate bio medical engineering undergraduate who is enthusiastic about machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansanikaumadi&label=Profile%20views&color=0e75b6&style=flat" alt="hansanikaumadi" /> </p>
 
