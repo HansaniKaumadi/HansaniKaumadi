@@ -2,11 +2,11 @@
 
 
 
-# 👋 Hello, I'm Hansani Kaumdi!
+# 👋 Hello, I'm Hansani Kaumadi!
 
 💻 **Machine Learning Enthusiast**  
 🧠 **Passionate about Human-Computer Interaction (HCI)**  
-🎓 Aspiring Researcher | Problem Solver | Creative Thinker
+🎓 Problem Solver | Creative Thinker | Passionate Leader
 
 ---
 
