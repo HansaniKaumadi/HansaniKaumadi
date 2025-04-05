@@ -51,7 +51,7 @@ I'm also deeply curious about the human mind — I often find myself researching
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/hansanikaumdi) 
+- 🌐 [LinkedIn](www.linkedin.com/in/hansani-kaumadi) 
 - 📧 Email: mhansaniky@gmail.com 
 - 🗂️ Portfolio: Coming Soon!
 
