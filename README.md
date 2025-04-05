@@ -1,8 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/6737c919-2368-4a5f-8895-c5d197226d50)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/.../banner.png" width="100%">
-</p>
+
 
 # 👋 Hello, I'm Hansani Kaumdi!
 
