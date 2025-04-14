@@ -61,6 +61,13 @@ I enjoy building intelligent applications that make interfaces smarter, more int
   <!-- Node-RED -->
   <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="10%" />
 
+
+<!-- Raspi -->
+  <img src="https://github.com/user-attachments/assets/183db8fa-a26d-44c7-93d5-255e1398a805" alt="Image" width="10%" />
+
+
+
+
   <!-- Wokwi (Rehosted image) -->
   <img src="https://github.com/user-attachments/assets/8434207a-5fdb-45a9-81ab-56f947724a78" alt="Wokwi" width="10%" />
 
