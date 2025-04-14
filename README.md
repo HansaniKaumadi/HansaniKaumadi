@@ -20,7 +20,7 @@ I enjoy building intelligent applications that make interfaces smarter, more int
 
 
 
-## 🛠 Language and Tools 
+## 🛠 Languages and Tools 
 
 
 
