@@ -32,6 +32,14 @@ I enjoy building intelligent applications that make interfaces smarter, more int
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="10%" />
 
+  <img src="https://github.com/user-attachments/assets/53058a18-45e3-4ad8-af4e-9ba7286cac78" alt="NumPy Logo" width="10%" />
+
+  <img src="https://github.com/user-attachments/assets/0b34616e-b418-4de2-9a89-5b7b485c8ec0" alt="Pandas" width="10%" />
+  
+  <img src="https://github.com/user-attachments/assets/aae1ffb3-aa85-4154-9ff9-1d4039d45d7f" alt="Scikit-Learn" width="15%" />
+
+  
+
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="10%" />
 
@@ -58,6 +66,9 @@ I enjoy building intelligent applications that make interfaces smarter, more int
 
   
   <img src="https://github.com/user-attachments/assets/134d39ee-9d92-4c8a-aeac-857c268d6aeb" alt="Proteus" width="10%" />
+
+  <img src="https://github.com/user-attachments/assets/8a104691-ce77-4292-af2f-285989957118" alt="Overleaf" width="9%" />
+
 
 
 
