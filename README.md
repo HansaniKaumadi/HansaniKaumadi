@@ -18,12 +18,41 @@ I enjoy building intelligent applications that make interfaces smarter, more int
 
 ---
 
-## 🏅 Academic Achievements
 
-- 🥉 **Higher Distinction** in **Australian National Chemistry Quiz- Junior Distinction**
-- 📊 **First Class GPA** 
-- 🎓 **391** out of 250,000+ candidates in the **GCE A/L Exam**  
-  - A Grades in: **Mathematics**, **Physics**, **Chemistry**, and **English**
+
+## 🛠 Language and Tools 
+
+
+
+
+<p align="left">
+  <!-- MATLAB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+  <!-- SolidWorks (Rehosted image) -->
+  <img src="https://raw.githubusercontent.com/h-kaumadi/tool-icons/main/solidworks.png" alt="SolidWorks" width="40" height="40"/>
+
+  <!-- Altium Designer (Rehosted image) -->
+  <img src="https://raw.githubusercontent.com/h-kaumadi/tool-icons/main/altium.png" alt="Altium Designer" width="40" height="40"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+
+  <!-- Node-RED -->
+  <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="40" height="40"/>
+
+  <!-- Wokwi (Rehosted image) -->
+  <img src="https://raw.githubusercontent.com/h-kaumadi/tool-icons/main/wokwi.png" alt="Wokwi" width="40" height="40"/>
+</p>
 
 
 ## 🚀 Interests & Goals
