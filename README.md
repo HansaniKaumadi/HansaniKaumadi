@@ -36,7 +36,9 @@ I enjoy building intelligent applications that make interfaces smarter, more int
 
   <img src="https://github.com/user-attachments/assets/0b34616e-b418-4de2-9a89-5b7b485c8ec0" alt="Pandas" width="10%" />
   
-  <img src="https://github.com/user-attachments/assets/aae1ffb3-aa85-4154-9ff9-1d4039d45d7f" alt="Scikit-Learn" width="15%" />
+ 
+  
+  <img src="https://github.com/user-attachments/assets/168d0ca4-ee1e-4222-a321-587b8fb59ae0" alt="scikit" width="10%" />
 
   
 
@@ -60,6 +62,11 @@ I enjoy building intelligent applications that make interfaces smarter, more int
 
   <!-- Node-RED -->
   <img src="https://nodered.org/about/resources/media/node-red-icon.png" alt="Node-RED" width="10%" />
+
+<!-- Javascript -->
+  <img src="https://github.com/user-attachments/assets/281b43fa-78e9-406d-b548-2ad306e78ab5" alt="images (1)" width="10%" />
+
+
 
 
 <!-- Raspi -->
