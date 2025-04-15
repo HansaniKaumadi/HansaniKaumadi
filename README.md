@@ -78,6 +78,10 @@ I enjoy building intelligent applications that make interfaces smarter, more int
   <!-- Wokwi (Rehosted image) -->
   <img src="https://github.com/user-attachments/assets/8434207a-5fdb-45a9-81ab-56f947724a78" alt="Wokwi" width="10%" />
 
+  <img src="https://github.com/user-attachments/assets/dd2e5751-0049-469a-97d2-a86716151273" alt="EasyEDA" width="10%" />
+
+
+
   
   <img src="https://github.com/user-attachments/assets/134d39ee-9d92-4c8a-aeac-857c268d6aeb" alt="Proteus" width="10%" />
 
